@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fish Catalog</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #eaf7ff;
+        }
+        .container {
+            width: 90%;
+            margin: 0 auto;
+            padding: 20px;
+            text-align: center;
+        }
+        h1 {
+            font-size: 2em;
+            color: #333;
+        }
+        .category-filter {
+            margin-bottom: 20px;
+        }
+        .category-filter select {
+            padding: 10px;
+            font-size: 1em;
+            border-radius: 5px;
+            border: 2px solid #4ca1af;
+            background-color: #fff;
+            color: #333;
+        }
+        .fish-list {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 15px;
+        }
+        .fish-item {
+            background-color: #fff;
+            border: 2px solid #4ca1af;
+            padding: 10px;
+            width: 150px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+            transition: transform 0.2s, background-color 0.2s;
+            text-align: center;
+        }
+        .fish-item:hover {
+            transform: translateY(-5px);
+            background-color: #4ca1af;
+            color: #fff;
+            cursor: pointer;
+        }
+        .fish-item h3 {
+            margin: 10px 0;
+            font-size: 1.2em;
+        }
+        .details {
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            background-color: #fff;
+            border: 2px solid #4ca1af;
+            border-radius: 15px;
+            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+            width: 80%;
+            max-width: 500px;
+            padding: 20px;
+            z-index: 1000;
+            text-align: left;
+            display: none;
+            overflow-y: auto;
+            max-height: 80%;
+        }
+        .details h2, .details h3 {
+            margin-top: 0;
+        }
+        .details p {
+            margin: 10px 0;
+            line-height: 1.5;
+        }
+        .details .close-btn {
+            display: inline-block;
+            background-color: #4ca1af;
+            color: #fff;
+            padding: 8px 15px;
+            border: none;
+            border-radius: 10px;
+            font-size: 1em;
+            cursor: pointer;
+            text-align: center;
+            margin-top: 15px;
+            width: 100%;
+        }
+        .overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.5);
+            z-index: 999;
+            display: none;
+        }
+        @media (max-width: 600px) {
+            .fish-item {
+                width: 120px;
+                padding: 8px;
+            }
+            .fish-item h3 {
+                font-size: 1em;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Fish Catalog</h1>
+        <div class="category-filter">
+            <label for="category">Filter by Category:</label>
+            <select id="category">
+                <option value="all">All</option>
+                <option value="Angelfish">Angelfish</option>
+                <option value="Dwarf Angelfish">Dwarf Angelfish</option>
+                <option value="Anthias">Anthias</option>
+                <option value="Basslets">Basslets</option>
+                <option value="Dottybacks">Dottybacks</option>
+                <option value="Blennies">Blennies</option>
+                <option value="Gobies">Gobies</option>
+                <option value="Butterfly fish">Butterfly fish</option>
+                <option value="Cardinal fish">Cardinal fish</option>
+                <option value="Damsel fish">Damsel fish</option>
+                <option value="Clown fish">Clown fish</option>
+                <option value="Hawk fish">Hawk fish</option>
+                <option value="Lion fish">Lion fish</option>
+                <option value="Scorpion fish">Scorpion fish</option>
+                <option value="Miscellaneous Fish">Miscellaneous Fish</option>
+                <option value="Puffer fish">Puffer fish</option>
+                <option value="Rabbit fish">Rabbit fish</option>
+                <option value="Triggers">Triggers</option>
+                <option value="File fish">File fish</option>
+                <option value="Wrasses">Wrasses</option>
+            </select>
+        </div>
+        <div class="fish-list" id="fish-list"></div>
+        <div class="details" id="fish-details">
+            <button class="close-btn" id="close-btn">Close</button>
+        </div>
+        <div class="overlay" id="overlay"></div>
+    </div>
+
+    <script>
+        // Load the JSON data (replace with your actual path to fish_data.json)
+        fetch('fish_data.json')
+            .then(response => response.json())
+            .then(data => {
+                const fishList = document.getElementById('fish-list');
+                const fishDetails = document.getElementById('fish-details');
+                const overlay = document.getElementById('overlay');
+                const closeBtn = document.getElementById('close-btn');
+                const categorySelect = document.getElementById('category');
+
+                // Populate the catalog with fish names
+                function displayFishList(fishData) {
+                    fishList.innerHTML = ''; // Clear previous fish list
+                    fishData.forEach(fish => {
+                        const fishItem = document.createElement('div');
+                        fishItem.className = 'fish-item';
+                        fishItem.innerHTML = `<h3>${fish.name}</h3>`;
+                        fishItem.addEventListener('click', () => showDetails(fish));
+                        fishList.appendChild(fishItem);
+                    });
+                }
+
+                // Display all fish initially
+                displayFishList(data);
+
+                // Filter fish by category
+                categorySelect.addEventListener('change', function() {
+                    const selectedCategory = this.value;
+                    if (selectedCategory === 'all') {
+                        displayFishList(data);
+                    } else {
+                        const filteredFish = data.filter(fish => fish.category === selectedCategory);
+                        displayFishList(filteredFish);
+                    }
+                });
+
+                // Function to show fish details when a fish name is clicked
+                function showDetails(fish) {
+                    fishDetails.style.display = 'block';
+                    overlay.style.display = 'block';
+                    fishDetails.innerHTML = `
+                        <h2>${fish.name}</h2>
+                        <p><strong>Synonyms:</strong> ${fish.overview['Synonyms'] || 'N/A'}</p>
+                        <p><strong>Distribution:</strong> ${fish.overview['Distribution'] || 'N/A'}</p>
+                        <p><strong>Maximum Size:</strong> ${fish.overview['Maximum Size'] || 'N/A'}</p>
+                        <p><strong>Temperature:</strong> ${fish.overview['Temperature'] || 'N/A'}</p>
+                        <p><strong>Water Parameters:</strong> ${fish.overview['Water Parameters'] || 'N/A'}</p>
+                        <p><strong>Compatibility:</strong> ${fish.overview['Compatibility'] || 'N/A'}</p>
+                        <p><strong>Lighting:</strong> ${fish.overview['Lighting'] || 'N/A'}</p>
+                        <p><strong>Reef Aquarium Compatibility:</strong> ${fish.overview['Reef Aquarium Compatibility'] || 'N/A'}</p>
+                        <p><strong>Sexual Dimorphism:</strong> ${fish.overview['Sexual Dimorphism'] || 'N/A'}</p>
+                        <h3>Description</h3>
+                        <p>${fish.description}</p>
+                        <h3>Feeding</h3>
+                        <p>${fish.feeding}</p>
+                        <h3>Breeding</h3>
+                        <p>${fish.breeding}</p>
+                        <button class="close-btn" id="close-btn">Close</button>
+                    `;
+                    document.getElementById('close-btn').addEventListener('click', closeDetails);
+                }
+
+                // Function to close the details view
+                function closeDetails() {
+                    fishDetails.style.display = 'none';
+                    overlay.style.display = 'none';
+                }
+
+                // Close details when overlay is clicked
+                overlay.addEventListener('click', closeDetails);
+            })
+            .catch(error => console.error('Error loading fish data:', error));
+    </script>
+</body>
+</html>
