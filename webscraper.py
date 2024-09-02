@@ -51,6 +51,30 @@ while True:
     if last_height == new_height and not new_names_added:
         break
 
+# Define the categories you are looking for based on known patterns in URLs or page content
+categories = {
+    "angelfish": "Angelfish",
+    "dwarf-angelfish": "Dwarf Angelfish",
+    "anthias": "Anthias",
+    "basslets": "Basslets",
+    "dottybacks": "Dottybacks",
+    "blennies": "Blennies",
+    "gobies": "Gobies",
+    "butterflyfish": "Butterfly fish",
+    "cardinalfish": "Cardinal fish",
+    "damselfish": "Damsel fish",
+    "clownfish": "Clown fish",
+    "hawkfish": "Hawk fish",
+    "lion": "Lion fish",
+    "scorpion": "Scorpion fish",
+    "miscellaneous-fish": "Miscellaneous Fish",
+    "pufferfish": "Puffer fish",
+    "rabbitfish": "Rabbit fish",
+    "triggers": "Triggers",
+    "filefish": "File fish",
+    "wrasses": "Wrasses"
+}
+
 # Initialize an empty list to store fish details
 fish_data = []
 
@@ -60,6 +84,14 @@ for index, url in enumerate(fish_urls):
     print(f"\nScraping details for fish {index + 1}/{len(fish_urls)}: {url}")
     
     fish_details = {}
+    
+    # Determine the category based on the URL
+    fish_category = "Miscellaneous Fish"  # Default category
+    for key, value in categories.items():
+        if key in url.lower():
+            fish_category = value
+            break
+    fish_details['category'] = fish_category
     
     # Wait for the Overview section to load
     try:

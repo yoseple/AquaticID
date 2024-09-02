@@ -1,5 +1,6 @@
 [
     {
+        "category": "Miscellaneous Fish",
         "name": "Acanthurus achilles",
         "overview": {
             "Synonyms": "Acanthurus aterrimus, Hepatus achilles, H. aterrimus, Teuthis achilles, T. aterrimus",
@@ -17,6 +18,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Butterfly fish",
         "name": "Chaetodon semilarvatus",
         "overview": {
             "Synonyms": "Chaetodon melanopoma",
@@ -34,6 +36,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Blennies",
         "name": "Meiacanthus mossambicus",
         "overview": {
             "Synonyms": "None",
@@ -52,6 +55,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Miscellaneous Fish",
         "name": "Acreichthys tomentosus",
         "overview": {
             "Synonyms": "Balistes tomentosus, Monacanthus tomentosus, Pervagor tomentosus, Stephanolepis tomentosus",
@@ -69,6 +73,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Blennies",
         "name": "Salarias fasciatus",
         "overview": {
             "Synonyms": "Blennius fasciatus, Salarias quadripennis",
@@ -86,6 +91,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Angelfish",
         "name": "Pomacanthus annularis",
         "overview": {
             "Synonyms": "Pomacanthodes annularis",
@@ -103,6 +109,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Dottybacks",
         "name": "Pseudochromis aldabraensis",
         "overview": {
             "Synonyms": "None",
@@ -120,6 +127,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Angelfish",
         "name": "Pomacanthus asfur",
         "overview": {
             "Synonyms": "Arusetta asfeur, Chaetodon asfur",
@@ -137,6 +145,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Angelfish",
         "name": "Apolemichthys arcuatus",
         "overview": {
             "Synonyms": "Desmoholacanthus arcuatus, Holacanthus arcuatus",
@@ -154,6 +163,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Cardinal fish",
         "name": "Pterapogon kauderni",
         "overview": {
             "Synonyms": "None",
@@ -171,6 +181,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Butterfly fish",
         "name": "Heniochus acuminatus",
         "overview": {
             "Synonyms": "Chaetodon acuminatus, Chaetodon macrolepidotus, Chaetodon mycteryzans, Heniochus macrolepidotus, Taurichthys macrolepidotus",
@@ -188,6 +199,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Damsel fish",
         "name": "Chromis nitida",
         "overview": {
             "Synonyms": "Tetradrachmum nitidum",
@@ -205,6 +217,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Angelfish",
         "name": "Genicanthus bellus",
         "overview": {
             "Synonyms": "None",
@@ -222,6 +235,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Miscellaneous Fish",
         "name": "Canthigaster bennetti",
         "overview": {
             "Synonyms": "Canthigaster constellatus, Tetrodon ocellatus, Tropidichthys bennetti, T. oxylophius",
@@ -239,6 +253,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Angelfish",
         "name": "Centropyge bicolor",
         "overview": {
             "Synonyms": "Chaetodon bicolor",
@@ -256,6 +271,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Anthias",
         "name": "Pseudanthias bicolor",
         "overview": {
             "Synonyms": "Anthias bicolor, Mirolabrichthys bicolor",
@@ -273,6 +289,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Blennies",
         "name": "Ecsenius bicolor",
         "overview": {
             "Synonyms": "Ecsenius hawaiiensis, Salarias bicolor, S. burmanicus, S. furcatus, S. melanosoma",
@@ -290,6 +307,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Damsel fish",
         "name": "Pycnochromis margaritifer",
         "overview": {
             "Synonyms": "Chromis dimidiatus margaritifer, Chromis margaritifer",
@@ -307,6 +325,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Butterfly fish",
         "name": "Forcipiger longirostris",
         "overview": {
             "Synonyms": "Chaetodon longirostris, Chelmo longirostris, Forcipiger cyrano, F. inornatus, Prognathodes longirostris",
@@ -324,6 +343,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Miscellaneous Fish",
         "name": "Naso vlamingii",
         "overview": {
             "Synonyms": "Naseus vlamingii",
@@ -341,6 +361,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Wrasses",
         "name": "Gomphosus varius",
         "overview": {
             "Synonyms": "Gomphosus tricolor",
@@ -358,6 +379,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Butterfly fish",
         "name": "Chaetodon flavirostris",
         "overview": {
             "Synonyms": "Chaetodon aphrodite, C. dorsiocellatus",
@@ -375,6 +397,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Wrasses",
         "name": "Macropharyngodon negrosensis",
         "overview": {
             "Synonyms": "None",
@@ -392,6 +415,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Miscellaneous Fish",
         "name": "Zebrasoma rostratum",
         "overview": {
             "Synonyms": "Acanthurus rostratus",
@@ -409,6 +433,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Angelfish",
         "name": "Chaetodontoplus melanosoma",
         "overview": {
             "Synonyms": "Holacanthus melanosoma",
@@ -426,6 +451,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Miscellaneous Fish",
         "name": "Acanthurus polyzona",
         "overview": {
             "Synonyms": "Rhombotides polyzona",
@@ -443,6 +469,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Dottybacks",
         "name": "Gramma melacara",
         "overview": {
             "Synonyms": "None",
@@ -460,6 +487,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Wrasses",
         "name": "Bodianus opercularis",
         "overview": {
             "Synonyms": "Cheiliopsis bivittatus, Cossyphus opercularis, Trochocopus opercularis",
@@ -477,6 +505,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Miscellaneous Fish",
         "name": "Naso lituratus",
         "overview": {
             "Synonyms": "Acanthurus lituratus, Aspisurus carolinarum, Callicanthus lituratus, Monoceros garretti, Prionurus eoume",
@@ -494,6 +523,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Blennies",
         "name": "Valenciennea strigata",
         "overview": {
             "Synonyms": "Eleotriodes strigatus, Gobius strigatus",
@@ -511,6 +541,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Damsel fish",
         "name": "Chrysiptera cyanea",
         "overview": {
             "Synonyms": "Abudefduf cyaneus, Chrysiptera cyaneus, Glyphidodontops cyaneus, Glyphisodon cyaneus",
@@ -528,6 +559,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Blennies",
         "name": "Elacatinus oceanops",
         "overview": {
             "Synonyms": "Gobiosoma oceanops",
@@ -545,6 +577,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Damsel fish",
         "name": "Azurina cyanea",
         "overview": {
             "Synonyms": "Furcaria cyanea, Heliastes cyaneus, Chromis cyanea",
@@ -562,6 +595,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Miscellaneous Fish",
         "name": "Opistognathus rosenblatti",
         "overview": {
             "Synonyms": "None",
@@ -580,6 +614,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Damsel fish",
         "name": "Pomacentrus alleni",
         "overview": {
             "Synonyms": "None",
@@ -597,6 +632,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Miscellaneous Fish",
         "name": "Xanthichthys auromarginatus",
         "overview": {
             "Synonyms": "Balistes auromarginatus",
@@ -614,6 +650,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Miscellaneous Fish",
         "name": "Odonus niger",
         "overview": {
             "Synonyms": "Balistes erythrodon, Odonus erythrodon, Xenodon niger",
@@ -631,6 +668,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Miscellaneous Fish",
         "name": "Pentapodus emeryii",
         "overview": {
             "Synonyms": "Heterognathus nemurus, Mesoprion emeryii, Pentapus nemurus",
@@ -648,6 +686,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Miscellaneous Fish",
         "name": "Ctenochaetus binotatus",
         "overview": {
             "Synonyms": "Ctenochaetus oculocoeruleus",
@@ -665,6 +704,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Angelfish",
         "name": "Pomacanthus xanthometopon",
         "overview": {
             "Synonyms": "Euxiphipops xanthometopon, Holacanthus xanthometopon",
@@ -682,6 +722,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Miscellaneous Fish",
         "name": "Hoplolatilus starcki",
         "overview": {
             "Synonyms": "None",
@@ -699,6 +740,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Wrasses",
         "name": "Thalassoma bifasciatum",
         "overview": {
             "Synonyms": "Labrus bifasciatus, Julis nitida, Thalassoma nitida",
@@ -716,6 +758,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Miscellaneous Fish",
         "name": "Pseudobalistes fuscus",
         "overview": {
             "Synonyms": "Balistes caerulescens, B. fuscus, B. rivulatus",
@@ -733,6 +776,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Blennies",
         "name": "Cryptocentrus pavoninoides",
         "overview": {
             "Synonyms": "Gobius pavoninoides",
@@ -750,6 +794,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Angelfish",
         "name": "Chaetodontoplus caeruleopunctatus",
         "overview": {
             "Synonyms": "None",
@@ -767,6 +812,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Wrasses",
         "name": "Paracheilinus mccoskeri",
         "overview": {
             "Synonyms": "None",
@@ -784,6 +830,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Miscellaneous Fish",
         "name": "Doryrhamphus excisus",
         "overview": {
             "Synonyms": "Doryichthys californiensis, D. excisus, D. melanopleura, D. pleurotaenia, Doryrhamphus californiensis, D. melanopleura, D. pleurotaenia, Microphis extensus, M. mayottae, M. melanopleura, M. pleurotaenia, Syngnathus melanopleura",
@@ -801,6 +848,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Angelfish",
         "name": "Chaetodontoplus septentrionalis",
         "overview": {
             "Synonyms": "Holacanthus septentrionalis",
@@ -818,6 +866,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Butterfly fish",
         "name": "Chaetodon fremblii",
         "overview": {
             "Synonyms": "None",
@@ -835,6 +884,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Blennies",
         "name": "Meiacanthus oualanensis",
         "overview": {
             "Synonyms": "Meiacanthus ovalauensis, Petroscirtes auratus, P. oualanensis",
@@ -853,6 +903,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Miscellaneous Fish",
         "name": "Liopropoma carmabi",
         "overview": {
             "Synonyms": "Chorististium carmabi",
@@ -870,6 +921,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Miscellaneous Fish",
         "name": "Serranus tortugarum",
         "overview": {
             "Synonyms": "None",
@@ -887,6 +939,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Miscellaneous Fish",
         "name": "Acanthurus coeruleus",
         "overview": {
             "Synonyms": "Acanthurus brevis, A. broussonnetii, A. violaceus, Acronurus caeruleatus, Hepatus pawnee, Teuthis coeruleus, T. helioides",
@@ -904,6 +957,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Butterfly fish",
         "name": "Prognathodes aculeatus",
         "overview": {
             "Synonyms": "Chaetodon aculeatus, C. unicolor, Chelmo pelta, Chelmon aculeatus",
@@ -921,6 +975,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Wrasses",
         "name": "Paracheilinus carpenteri",
         "overview": {
             "Synonyms": "None",
@@ -938,6 +993,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Blennies",
         "name": "Valenciennea sexguttata",
         "overview": {
             "Synonyms": "Eleotriodes pallidus, E. sexguttatus, Eleotris lantzii, E. sexguttata, Salarigobius stuhlmannii, Valenciennea violifera",
@@ -955,6 +1011,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Dottybacks",
         "name": "Pholidochromis cerasina",
         "overview": {
             "Synonyms": "None",
@@ -972,6 +1029,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Angelfish",
         "name": "Centropyge argi",
         "overview": {
             "Synonyms": "None",
@@ -989,6 +1047,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Miscellaneous Fish",
         "name": "Ctenochaetus hawaiiensis",
         "overview": {
             "Synonyms": "None",
@@ -1006,6 +1065,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Wrasses",
         "name": "Macropharyngodon choati",
         "overview": {
             "Synonyms": "None",
@@ -1023,6 +1083,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Blennies",
         "name": "Tigrigobius multifasciatus",
         "overview": {
             "Synonyms": "Elacatinus multifasciatus, Elacatinus multifasciatum, Gobiosoma multifasciatum",
@@ -1040,6 +1101,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Wrasses",
         "name": "Halichoeres claudia",
         "overview": {
             "Synonyms": "None",
@@ -1057,6 +1119,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Damsel fish",
         "name": "Amphiprion clarkii",
         "overview": {
             "Synonyms": "Amphiprion boholensis, A. japonicus, A. melanostolus, A. papuensis, A. snyderi, A. xanthurus, Anthias clarkii, Sparus milii",
@@ -1074,6 +1137,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Wrasses",
         "name": "Labroides dimidiatus",
         "overview": {
             "Synonyms": "Cossyphus dimidiatus",
@@ -1091,6 +1155,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Wrasses",
         "name": "Halichoeres nebulosus",
         "overview": {
             "Synonyms": "Halichoeres reichei, Julis nebulosus, J. pseudominiatus, J. reichei, Pseudojulis maculifer",
@@ -1108,6 +1173,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Miscellaneous Fish",
         "name": "Acanthurus lineatus",
         "overview": {
             "Synonyms": "Acanthurus vittatus, Chaetodon lineatus, Ctenodon lineatus, Harpurus lineatus, Hepatus lineatus, Rhombotides lineatus, Teuthis lineatus",
@@ -1125,6 +1191,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Miscellaneous Fish",
         "name": "Balistoides conspicillum",
         "overview": {
             "Synonyms": "Balistes conspicillum",
@@ -1142,6 +1209,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Butterfly fish",
         "name": "Chaetodon collare",
         "overview": {
             "Synonyms": "Chaetodon collare duplicicollis, Chaetodon fowleri, Chaetodon parallelus, Chaetodon praetextatus, Chaetodon viridis",
@@ -1159,6 +1227,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Damsel fish",
         "name": "Amphiprion ocellaris",
         "overview": {
             "Synonyms": "Amphiprion bicolor, Amphiprion melanurus",
@@ -1176,6 +1245,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Blennies",
         "name": "Pholidichthys leucotaenia",
         "overview": {
             "Synonyms": "Brotulophis argentistriatus",
@@ -1193,6 +1263,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Miscellaneous Fish",
         "name": "Acanthurus triostegus",
         "overview": {
             "Synonyms": "This species has numerous synonyms, including: Acanthurus pentazona, Acanthurus zebra, Chaetodon triostegus, Hepatus triostegus, Rhombotides triostegus, and Teuthis triostegus. There are too many synonyms to list all here.",
@@ -1210,6 +1281,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Butterfly fish",
         "name": "Chelmon rostratus",
         "overview": {
             "Synonyms": "Chaetodon enceladus, Chaetodon rostratus",
@@ -1227,6 +1299,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Angelfish",
         "name": "Centropyge bispinosa",
         "overview": {
             "Synonyms": "Centropyge bispinosus, Holacanthus bispinosus",
@@ -1244,6 +1317,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Hawk fish",
         "name": "Cirrhitichthys oxycephalus",
         "overview": {
             "Synonyms": "Cirrhites grandimaculatus, C. murrayi, C. oxycephalus, Cirrhitichthys corallicola",
@@ -1261,6 +1335,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Wrasses",
         "name": "Bodianus mesothorax",
         "overview": {
             "Synonyms": "Labrus mesothorax, Lepidaplois mesothorax, Scarus mordax",
@@ -1278,6 +1353,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Blennies",
         "name": "Koumansetta rainfordi",
         "overview": {
             "Synonyms": "Amblygobius rainfordi",
@@ -1295,6 +1371,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Angelfish",
         "name": "Apolemichthys xanthurus",
         "overview": {
             "Synonyms": "Holacanthus xanthurus",
@@ -1312,6 +1389,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Wrasses",
         "name": "Clepticus parrae",
         "overview": {
             "Synonyms": "Brama parrae, Clepticus genizara",
@@ -1329,6 +1407,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Wrasses",
         "name": "Bodianus sepiacaudus",
         "overview": {
             "Synonyms": "None",
@@ -1346,6 +1425,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Miscellaneous Fish",
         "name": "Xanthichthys mento",
         "overview": {
             "Synonyms": "Balistes mento, Xanthichthys gotonis, X. purus, X. surcatus",
@@ -1363,6 +1443,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Damsel fish",
         "name": "Dascyllus trimaculatus",
         "overview": {
             "Synonyms": "Dascyllus axillaris, Dascyllus niger, Dascyllus unicolor, Pomacentrus nuchalis, Pomacentrus trimaculatus, Sparus nigricans",
@@ -1380,6 +1461,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Blennies",
         "name": "Ecsenius lineatus",
         "overview": {
             "Synonyms": "None",
@@ -1397,6 +1479,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Butterfly fish",
         "name": "Chaetodon ulietensis",
         "overview": {
             "Synonyms": "Chaetodon aurora, C. ulietensis confluens",
@@ -1414,6 +1497,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Wrasses",
         "name": "Novaculichthys taeniourus",
         "overview": {
             "Synonyms": "Hemipteronotus taeniourus, Julis bifer, Labrus taeniourus, Novaculichthys bifer",
@@ -1431,6 +1515,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Angelfish",
         "name": "Centropyge multispinis",
         "overview": {
             "Synonyms": "Holacanthus multispinis",
@@ -1448,6 +1533,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Miscellaneous Fish",
         "name": "Opistognathus whitehursti",
         "overview": {
             "Synonyms": "Gnathypops whitehursti, Opistognathus whitehursti, Upsilonognathus chaplini",
@@ -1466,6 +1552,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Wrasses",
         "name": "Halichoeres marginatus",
         "overview": {
             "Synonyms": "Halichoeres lamarii, H. notopsis, H. virescens, Julis lamarii, J. notopsis",
@@ -1483,6 +1570,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Dottybacks",
         "name": "Pseudochromis fridmani x sankeyi",
         "overview": {
             "Distribution": "Both parent species originally from the Red Sea.",
@@ -1499,6 +1587,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Angelfish",
         "name": "Pomacanthus imperator",
         "overview": {
             "Synonyms": "Acanthochaetodon imperator, A. nicobariensis, Chaetodon imperator, C. nicobariensis, Holacanthus imperator, H. nicobariensis, Pomacanthodes imperator, Pomacanthus nicobariensis",
@@ -1516,6 +1605,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Damsel fish",
         "name": "Chrysiptera arnazae",
         "overview": {
             "Synonyms": "None",
@@ -1533,6 +1623,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Wrasses",
         "name": "Cirrhilabrus exquisitus",
         "overview": {
             "Synonyms": "None",
@@ -1550,6 +1641,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Blennies",
         "name": "Signigobius biocellatus",
         "overview": {
             "Synonyms": "None",
@@ -1567,6 +1659,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Butterfly fish",
         "name": "Chaetodon falcula",
         "overview": {
             "Synonyms": "Anisochaetodon falcula, C. dizoster, Tetragonoptrusdizoster",
@@ -1584,6 +1677,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Damsel fish",
         "name": "Chrysiptera taupou",
         "overview": {
             "Synonyms": "Abudefduf elizabethae, A. taupou, Chrysiptera elizabethae",
@@ -1601,6 +1695,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Damsel fish",
         "name": "Amblypomacentrus tricinctus",
         "overview": {
             "Synonyms": "Glyphidodontops tricinctus, Chrysiptera tricincta",
@@ -1618,6 +1713,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Angelfish",
         "name": "Centropyge acanthops",
         "overview": {
             "Synonyms": "Holacanthus acanthops, Xiphipops acanthops",
@@ -1635,6 +1731,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Blennies",
         "name": "Trimma rubromaculatum",
         "overview": {
             "Synonyms": "Trimma rubromaculatus",
@@ -1652,6 +1749,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Miscellaneous Fish",
         "name": "Nemateleotris magnifica",
         "overview": {
             "Synonyms": "None",
@@ -1669,6 +1767,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Cardinal fish",
         "name": "Cheilodipterus quinquelineatus",
         "overview": {
             "Synonyms": "Cheilodipterus popur, Paramia quinquelineata",
@@ -1686,6 +1785,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Angelfish",
         "name": "Apolemichthys trimaculatus",
         "overview": {
             "Synonyms": "Holacanthus trimaculatus",
@@ -1703,6 +1803,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Angelfish",
         "name": "Centropyge loriculus",
         "overview": {
             "Synonyms": "Centropyge flammeus, Centropyge loricula, Holacanthus loriculus",
@@ -1720,6 +1821,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Dottybacks",
         "name": "Pictichromis diadema",
         "overview": {
             "Synonyms": "Pseudochromis diadema",
@@ -1737,6 +1839,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Blennies",
         "name": "Meiacanthus atrodorsalis",
         "overview": {
             "Synonyms": "Petroscirtes atrodorsalis, P. herlihyi",
@@ -1755,6 +1858,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Wrasses",
         "name": "Pseudocheilinus tetrataenia",
         "overview": {
             "Synonyms": "None",
@@ -1772,6 +1876,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Damsel fish",
         "name": "Dascyllus melanurus",
         "overview": {
             "Synonyms": "Pomacentrus onyx",
@@ -1789,6 +1894,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Butterfly fish",
         "name": "Chaetodon quadrimaculatus",
         "overview": {
             "Synonyms": "None",
@@ -1806,6 +1912,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Miscellaneous Fish",
         "name": "Siganus vulpinus",
         "overview": {
             "Synonyms": "Amphacanthus vulpinus, Lo vulpinus, Teuthis tubulosa, T. vulpina, T. vulpinus",
@@ -1823,6 +1930,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Miscellaneous Fish",
         "name": "Acanthurus maculiceps",
         "overview": {
             "Synonyms": "Hepatus maculiceps",
@@ -1840,6 +1948,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Angelfish",
         "name": "Pomacanthus paru",
         "overview": {
             "Synonyms": "Chaetodon aureus, C. paru, Pomacanthus aureus",
@@ -1857,6 +1966,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Lion fish",
         "name": "Dendrochirus biocellatus",
         "overview": {
             "Synonyms": "Nemapterois biocellata",
@@ -1874,6 +1984,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Lion fish",
         "name": "Dendrochirus brachypterus",
         "overview": {
             "Synonyms": "Pterois brachyptera",
@@ -1891,6 +2002,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Miscellaneous Fish",
         "name": "Zebrasoma gemmatum",
         "overview": {
             "Synonyms": "Acanthurus gemmatus",
@@ -1908,6 +2020,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Cardinal fish",
         "name": "Zoramia leptacantha",
         "overview": {
             "Synonyms": "Apogon leptacanthus",
@@ -1925,6 +2038,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Damsel fish",
         "name": "Pomacentrus auriventris",
         "overview": {
             "Synonyms": "None",
@@ -1942,6 +2056,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Blennies",
         "name": "Koumansetta hectori",
         "overview": {
             "Synonyms": "Amblygobius hectori, Seychellea hectori",
@@ -1959,6 +2074,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Blennies",
         "name": "Elacatinus evelynae",
         "overview": {
             "Synonyms": "Gobiosoma evelynae",
@@ -1976,6 +2092,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Miscellaneous Fish",
         "name": "Ctenochaetus tominiensis",
         "overview": {
             "Synonyms": "None",
@@ -1993,6 +2110,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Blennies",
         "name": "Ecsenius stigmatura",
         "overview": {
             "Synonyms": "None",
@@ -2010,6 +2128,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Cardinal fish",
         "name": "Ostorhinchus cyanosoma",
         "overview": {
             "Synonyms": "Apogon cyanosoma",
@@ -2027,6 +2146,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Angelfish",
         "name": "Centropyge aurantia",
         "overview": {
             "Synonyms": "None",
@@ -2044,6 +2164,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Damsel fish",
         "name": "Chromis viridis",
         "overview": {
             "Synonyms": "Pomacentrus viridis",
@@ -2061,6 +2182,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Blennies",
         "name": "Gobiodon histrio",
         "overview": {
             "Synonyms": "Gobiodon verticalis, Gobius histrio",
@@ -2078,6 +2200,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Miscellaneous Fish",
         "name": "Ptereleotris microlepis",
         "overview": {
             "Synonyms": "Eleotris elongata, E. microlepis, Gracileotris bockensis, Ptereleotris andamensis, P. microlepis itomanensis, P. letholepis, P. playfairi",
@@ -2095,6 +2218,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Angelfish",
         "name": "Centropyge vrolikii",
         "overview": {
             "Synonyms": "Centropyge vroliki, Holacanthus vrolikii",
@@ -2112,6 +2236,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Wrasses",
         "name": "Choerodon fasciatus",
         "overview": {
             "Synonyms": "Lienardella fasciata, Xiphochilus fasciatus",
@@ -2129,6 +2254,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Cardinal fish",
         "name": "Apogon oxina",
         "overview": {
             "Synonyms": "None",
@@ -2146,6 +2272,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Miscellaneous Fish",
         "name": "Nemateleotris lavandula",
         "overview": {
             "Synonyms": "None",
@@ -2163,6 +2290,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Angelfish",
         "name": "Centropyge heraldi",
         "overview": {
             "Synonyms": "Centropyge woodheadi, Pomacanthus heraldi",
@@ -2180,6 +2308,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Blennies",
         "name": "Stonogobiops xanthorhinica",
         "overview": {
             "Synonyms": "None",
@@ -2197,6 +2326,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Miscellaneous Fish",
         "name": "Plectranthias inermis",
         "overview": {
             "Synonyms": "None",
@@ -2214,6 +2344,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Blennies",
         "name": "Stonogobiops yasha",
         "overview": {
             "Synonyms": "None",
@@ -2231,6 +2362,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Wrasses",
         "name": "Paracheilinus filamentosus",
         "overview": {
             "Synonyms": "None",
@@ -2248,6 +2380,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Miscellaneous Fish",
         "name": "Tetrosomus gibbosus",
         "overview": {
             "Synonyms": "Ostracion gibbosus, O. turritus",
@@ -2266,6 +2399,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Butterfly fish",
         "name": "Chaetodon mitratus",
         "overview": {
             "Synonyms": "Tetragonoptrus mitratus",
@@ -2283,6 +2417,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Miscellaneous Fish",
         "name": "Zebrasoma desjardinii",
         "overview": {
             "Synonyms": "Acanthurus desjardinii, Zebrasoma desjardini",
@@ -2300,6 +2435,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Miscellaneous Fish",
         "name": "Melichthys indicus",
         "overview": {
             "Synonyms": "Melichthys ringens",
@@ -2317,6 +2453,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Butterfly fish",
         "name": "Chaetodon decussatus",
         "overview": {
             "Synonyms": "Chaetodon vagabundus jordani",
@@ -2334,6 +2471,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Wrasses",
         "name": "Halichoeres chloropterus",
         "overview": {
             "Synonyms": "Halichoeres bleekeri, H. gymnocephalus, H. modestus, Julis modestus, Labrus chloropterus, L. gymnocephalus, Platyglossus chloropterus, P. guttulatus",
@@ -2351,6 +2489,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Angelfish",
         "name": "Centropyge interrupta",
         "overview": {
             "Synonyms": "Angelichthys interruptus, Centropyge interruptus",
@@ -2368,6 +2507,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Blennies",
         "name": "Salarias ramosus",
         "overview": {
             "Synonyms": "None",
@@ -2385,6 +2525,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Miscellaneous Fish",
         "name": "Canthigaster solandri",
         "overview": {
             "Synonyms": "Canthigaster australis, C. glaucospilotus, C.saipanensis, Tetrodon petersii, T. solandri",
@@ -2402,6 +2543,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Angelfish",
         "name": "Centropyge tibicen",
         "overview": {
             "Synonyms": "Holacanthus tibicen",
@@ -2419,6 +2561,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Miscellaneous Fish",
         "name": "Xanthichthys greenei",
         "overview": {
             "Synonyms": "Xanthichthys kiritimati",
@@ -2436,6 +2579,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Wrasses",
         "name": "Cirrhilabrus solorensis",
         "overview": {
             "Synonyms": "None",
@@ -2453,6 +2597,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Angelfish",
         "name": "Pomacanthus semicirculatus",
         "overview": {
             "Synonyms": "Holacanthus alternans, H. lepidolepis, H. reginae, H. semicirculatus, Pomacanthops semicirculatus",
@@ -2470,6 +2615,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Miscellaneous Fish",
         "name": "Hippocampus kuda",
         "overview": {
             "Synonyms": "Hippocampus aterrimus, H. chinensis, H. hilonis, H.horai, H. kuda multiannularis, H. melanospilos, H. moluccensis, H. novaehebudorum, H. polytaenia, H. raji, H. rhynchomacer, H. taeniops, H. taeniopterus, H. tristis",
@@ -2487,6 +2633,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Wrasses",
         "name": "Cirrhilabrus laboutei",
         "overview": {
             "Synonyms": "None",
@@ -2504,6 +2651,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Angelfish",
         "name": "Genicanthus lamarck",
         "overview": {
             "Synonyms": "Holacanthus lamarck",
@@ -2521,6 +2669,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Butterfly fish",
         "name": "Chaetodon rafflesii",
         "overview": {
             "Synonyms": "Chaetodon dahli, C. princeps, C. sebae",
@@ -2538,6 +2687,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Miscellaneous Fish",
         "name": "Acanthurus nigrofuscus",
         "overview": {
             "Synonyms": "Acanthurus matoides, A. rubropunctatus, Chaetodon nigrofuscus, Ctenodon rubropunctatus, Hepatus lucillae, Teuthis lucillae.",
@@ -2555,6 +2705,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Scorpion fish",
         "name": "Taenianotus triacanthus",
         "overview": {
             "Synonyms": "Taenianotus citrinellus",
@@ -2572,6 +2723,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Angelfish",
         "name": "Centropyge flavissima",
         "overview": {
             "Synonyms": "Holacanthus flavissimus",
@@ -2589,6 +2741,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Miscellaneous Fish",
         "name": "Canthigaster leoparda",
         "overview": {
             "Synonyms": "None",
@@ -2606,6 +2759,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Wrasses",
         "name": "Macropharyngodon meleagris",
         "overview": {
             "Synonyms": "Halichoeres nigropunctatus, Julis meleagris, Leptojulis pardalis, Macropharyngodon pardalis, Platyglossus nigromaculatus, Wetmorella nigropunctata",
@@ -2623,6 +2777,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Damsel fish",
         "name": "Pycnochromis vanderbilti",
         "overview": {
             "Synonyms": "Chromis vanderbilti",
@@ -2640,6 +2795,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Miscellaneous Fish",
         "name": "Lactoria cornuta",
         "overview": {
             "Synonyms": "Ostracion cornutus",
@@ -2658,6 +2814,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Miscellaneous Fish",
         "name": "Parupeneus macronemus",
         "overview": {
             "Synonyms": "Mullus lateristriga, M. macronemus",
@@ -2675,6 +2832,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Anthias",
         "name": "Pseudanthias ventralis ventralis",
         "overview": {
             "Synonyms": "Anthias ventralis, A. ventralis ventralis, Pseudanthias ventralis",
@@ -2692,6 +2850,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Hawk fish",
         "name": "Oxycirrhites typus",
         "overview": {
             "Synonyms": "None",
@@ -2709,6 +2868,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Wrasses",
         "name": "Cirrhilabrus lubbocki",
         "overview": {
             "Synonyms": "None",
@@ -2726,6 +2886,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Wrasses",
         "name": "Thalassoma lunare",
         "overview": {
             "Synonyms": "Labrus lunaris",
@@ -2743,6 +2904,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Dottybacks",
         "name": "Pictichromis porphyreus",
         "overview": {
             "Synonyms": "Pseudochromis porphyreus",
@@ -2760,6 +2922,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Miscellaneous Fish",
         "name": "Siganus magnificus",
         "overview": {
             "Synonyms": "Lo magnificus",
@@ -2777,6 +2940,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Angelfish",
         "name": "Pomacanthus navarchus",
         "overview": {
             "Synonyms": "Euxiphipops navarchus, Holacanthus navarchus, Pomacanthodes navarchus",
@@ -2794,6 +2958,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Blennies",
         "name": "Synchiropus splendidus",
         "overview": {
             "Synonyms": "Callionymus splendidus, Neosynchiropus splendidus, Pterosynchiropus splendidus",
@@ -2811,6 +2976,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Butterfly fish",
         "name": "Chelmon marginalis",
         "overview": {
             "Synonyms": "Chelmon rostratus marginalis, C. tricinctus",
@@ -2828,6 +2994,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Miscellaneous Fish",
         "name": "Calloplesiops altivelis",
         "overview": {
             "Synonyms": "Barrosia barrosi, Plesiops altivelis",
@@ -2845,6 +3012,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Damsel fish",
         "name": "Amphiprion biaculeatus",
         "overview": {
             "Synonyms": "Premnas biaculeatus, Premnas epigrammata, Premnas gibbosus, Premnas semicinctus, Premnas unicolor",
@@ -2862,6 +3030,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Butterfly fish",
         "name": "Chaetodon declivis",
         "overview": {
             "Synonyms": "None",
@@ -2879,6 +3048,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Miscellaneous Fish",
         "name": "Siganus virgatus",
         "overview": {
             "Synonyms": "Amphacanthus notostictus, A. virgatus, Siganus notostictus, Teuthis notosticta, T. virgata",
@@ -2896,6 +3066,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Angelfish",
         "name": "Genicanthus semifasciatus",
         "overview": {
             "Synonyms": "Holacanthus semifasciatus",
@@ -2913,6 +3084,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Miscellaneous Fish",
         "name": "Acanthurus mata",
         "overview": {
             "Synonyms": "Acanthurus bleekeri, A. weberi, Chaetodon mata, Hepatus weberi",
@@ -2930,6 +3102,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Miscellaneous Fish",
         "name": "Rhinecanthus cinereus",
         "overview": {
             "Synonyms": "Balistes cinereus",
@@ -2947,6 +3120,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Butterfly fish",
         "name": "Chaetodon mertensii",
         "overview": {
             "Synonyms": "Chaetodon dixoni, C. madagaskariensis",
@@ -2964,6 +3138,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Blennies",
         "name": "Ecsenius midas",
         "overview": {
             "Synonyms": "None",
@@ -2981,6 +3156,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Angelfish",
         "name": "Centropyge nox",
         "overview": {
             "Synonyms": "Holacanthus nox",
@@ -2998,6 +3174,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Miscellaneous Fish",
         "name": "Paraluteres prionurus",
         "overview": {
             "Synonyms": "Alutarius prionurus, Psilocephalus prionurus",
@@ -3015,6 +3192,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Miscellaneous Fish",
         "name": "Acanthurus pyroferus",
         "overview": {
             "Synonyms": "Acanthurus armiger, A. celebicus, A. fuscus, Hepatus celebicus, H. pyroferus, Rhombotides celebicus",
@@ -3032,6 +3210,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Miscellaneous Fish",
         "name": "Zanclus cornutus",
         "overview": {
             "Synonyms": "Chaetodon canescens, Chaetodon cornutus, Zanclus canescens",
@@ -3049,6 +3228,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Angelfish",
         "name": "Paracentropyge multifasciata",
         "overview": {
             "Synonyms": "Centropyge multifasciata, Holacanthus multifasciatus",
@@ -3066,6 +3246,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Angelfish",
         "name": "Centropyge multicolor",
         "overview": {
             "Synonyms": "None",
@@ -3083,6 +3264,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Wrasses",
         "name": "Halichoeres iridis",
         "overview": {
             "Synonyms": "None",
@@ -3100,6 +3282,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Wrasses",
         "name": "Pseudocheilinus ocellatus",
         "overview": {
             "Synonyms": "None",
@@ -3117,6 +3300,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Wrasses",
         "name": "Cirrhilabrus naokoae",
         "overview": {
             "Synonyms": "None",
@@ -3134,6 +3318,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Wrasses",
         "name": "Anampses neoguinaicus",
         "overview": {
             "Synonyms": "Anampses fidjensis",
@@ -3151,6 +3336,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Miscellaneous Fish",
         "name": "Siganus unimaculatus",
         "overview": {
             "Synonyms": "Lo unimaculatus",
@@ -3169,6 +3355,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Miscellaneous Fish",
         "name": "Acanthurus bariene",
         "overview": {
             "Synonyms": "Acanthurus kingii, A. nummifer, Hepatus bariene, Rhombotides nummifer",
@@ -3186,6 +3373,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Miscellaneous Fish",
         "name": "Acanthurus olivaceus",
         "overview": {
             "Synonyms": "Acanthurus chrysosoma, A. eparei, A. erythromelas, A. humeralis, Ctenodon erythromelas, Harpurus paroticus, Hepatus chrysosoma, H. olivaceus, Rhombotides olivaceus, Teuthis olivaceus.",
@@ -3203,6 +3391,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Blennies",
         "name": "Valenciennea puellaris",
         "overview": {
             "Synonyms": "Eleotriodes puellaris",
@@ -3220,6 +3409,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Miscellaneous Fish",
         "name": "Siganus punctatus",
         "overview": {
             "Synonyms": "Amphacanthus capricornensis, A. chrysospilos, A. hexagonatus, A. melanospilos, A. punctatus, Harpurus inermis, Siganus capricornensis, S. chrysospilos, S. fuscus, S. hexagonata, Teuthis chrysospilos, T. hexagonata, T. punctata.",
@@ -3237,6 +3427,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Dottybacks",
         "name": "Pseudochromis fridmani",
         "overview": {
             "Synonyms": "None",
@@ -3254,6 +3445,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Miscellaneous Fish",
         "name": "Canthigaster axiologus",
         "overview": {
             "Synonyms": "None",
@@ -3271,6 +3463,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Angelfish",
         "name": "Holacanthus passer",
         "overview": {
             "Synonyms": "None",
@@ -3288,6 +3481,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Wrasses",
         "name": "Macropharyngodon bipartitus",
         "overview": {
             "Synonyms": "Macropharyngodon bipartitus bipartitus, M. varialvus",
@@ -3305,6 +3499,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Butterfly fish",
         "name": "Chaetodon xanthurus",
         "overview": {
             "Synonyms": "None",
@@ -3322,6 +3517,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Damsel fish",
         "name": "Amphiprion percula",
         "overview": {
             "Synonyms": "Actinicola percula, Amphiprion tunicatus, Lutjanus percula",
@@ -3339,6 +3535,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Miscellaneous Fish",
         "name": "Rhinecanthus aculeatus",
         "overview": {
             "Synonyms": "Balistapus aculeatus, Balistes aculeatus, Rhinecanthus aculeatus aculeatus",
@@ -3356,6 +3553,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Damsel fish",
         "name": "Amphiprion perideraion",
         "overview": {
             "Synonyms": "Amphiprion amamiensis, A. rosenbergii, Prochilus perideraion",
@@ -3373,6 +3571,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Blennies",
         "name": "Cryptocentrus leptocephalus",
         "overview": {
             "Synonyms": "Cryptocentrus melanopus, C. obliquus, C. singapurensis, Gobius melanopus, Smilogobius obliquus, S. singapurensis",
@@ -3390,6 +3589,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Miscellaneous Fish",
         "name": "Melichthys vidua",
         "overview": {
             "Synonyms": "Balistes erythropterus, B. vidua, B, vidua kamoharai, Melichthys nycteris, Oncobalistes erythropterus, Pachynathus nycteris",
@@ -3407,6 +3607,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Miscellaneous Fish",
         "name": "Diodon holocanthus",
         "overview": {
             "Synonyms": "Atopomycterus bocagei, Diodon hystrix holocanthus, D. maculifer, D. multimaculatus, D. novemmaculatus, D. paraholocanthus, D. pilosus, D. quadrimaculatus, D. sexmaculatus, Paradiodon quadrimaculatus, Trichodiodon pilosus.",
@@ -3425,6 +3626,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Angelfish",
         "name": "Centropyge potteri",
         "overview": {
             "Synonyms": "Holacanthus potteri",
@@ -3442,6 +3644,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Wrasses",
         "name": "Macropharyngodon geoffroy",
         "overview": {
             "Synonyms": "Julis geoffroy, Macropharyngodon aquilolo, M. geoffroyi",
@@ -3459,6 +3662,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Miscellaneous Fish",
         "name": "Acanthurus leucosternon",
         "overview": {
             "Synonyms": "Acanthurus delisiani, Acanthurus delisianus, Hepatus leucosternon, Rhombotides leucosternon",
@@ -3476,6 +3680,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Miscellaneous Fish",
         "name": "Acanthurus japonicus",
         "overview": {
             "Synonyms": "Acanthurus japonica, Hepatus aliala japonicus",
@@ -3493,6 +3698,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Miscellaneous Fish",
         "name": "Nemateleotris decora",
         "overview": {
             "Synonyms": "None",
@@ -3510,6 +3716,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Angelfish",
         "name": "Centropyge venusta",
         "overview": {
             "Synonyms": "Centropyge venustus, Holacanthus venustus, Paracentropyge venusta, Sumireyakko venustus",
@@ -3527,6 +3734,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Miscellaneous Fish",
         "name": "Hoplolatilus purpureus",
         "overview": {
             "Synonyms": "None",
@@ -3545,6 +3753,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Cardinal fish",
         "name": "Sphaeramia nematoptera",
         "overview": {
             "Synonyms": "Apogon nematopterus",
@@ -3562,6 +3771,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Wrasses",
         "name": "Pseudocheilinus hexataenia",
         "overview": {
             "Synonyms": "Cheilinus hexataenia, Cossyphus echis, Pseudocheilinus psittaculus, Pseudolabrus hexataenia",
@@ -3579,6 +3789,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Butterfly fish",
         "name": "Hemitaurichthys polylepis",
         "overview": {
             "Synonyms": "Chaetodon polylepis",
@@ -3596,6 +3807,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Angelfish",
         "name": "Holacanthus ciliaris",
         "overview": {
             "Synonyms": "Angelichthys ciliaris, A. iodocus, Chaetodon ciliaris, C. parrae, C. squamulosus, Holacanthus coronatus, H. formosus, H. iodocus",
@@ -3613,6 +3825,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Butterfly fish",
         "name": "Chaetodon lunula",
         "overview": {
             "Synonyms": "Chaetodon biocellatus, Pomacentrus lunula, Tetragonoptrus biocellatus, T. lunula",
@@ -3630,6 +3843,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Anthias",
         "name": "Pseudanthias randalli",
         "overview": {
             "Synonyms": "Anthias randalli",
@@ -3647,6 +3861,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Blennies",
         "name": "Amblyeleotris randalli",
         "overview": {
             "Synonyms": "None",
@@ -3664,6 +3879,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Blennies",
         "name": "Elacatinus puncticulatus",
         "overview": {
             "Synonyms": "Gobiosoma puncticulatus, G. rubrifrons",
@@ -3681,6 +3897,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Blennies",
         "name": "Synchiropus stellatus",
         "overview": {
             "Synonyms": "Neosynchiropus stellatus",
@@ -3698,6 +3915,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Angelfish",
         "name": "Centropyge eibli",
         "overview": {
             "Synonyms": "None",
@@ -3715,6 +3933,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Miscellaneous Fish",
         "name": "Acanthurus tristis",
         "overview": {
             "Synonyms": "None",
@@ -3732,6 +3951,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Wrasses",
         "name": "Cirrhilabrus rubrisquamis",
         "overview": {
             "Synonyms": "None",
@@ -3749,6 +3969,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Blennies",
         "name": "Amblyeleotris wheeleri",
         "overview": {
             "Synonyms": "Cryptocentrus wheeleri",
@@ -3766,6 +3987,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Wrasses",
         "name": "Cirrhilabrus rubrimarginatus",
         "overview": {
             "Synonyms": "None",
@@ -3783,6 +4005,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Cardinal fish",
         "name": "Ostorhinchus parvulus",
         "overview": {
             "Synonyms": "Amia parvula, Apogon parvulus",
@@ -3800,6 +4023,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Blennies",
         "name": "Blenniella chrysospilos",
         "overview": {
             "Synonyms": "Alticus evermanni, Istiblennius chrysospilos, I. chrysospilos insulinus, I. coronatus, I. insulinus, Salarias aureopuncticeps, S. belemnites, S. bryani, S. chrysospilos, S. coronatus, S. unimaculatus",
@@ -3817,6 +4041,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Wrasses",
         "name": "Cirrhilabrus rubripinnis",
         "overview": {
             "Synonyms": "None",
@@ -3834,6 +4059,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Hawk fish",
         "name": "Amblycirrhitus pinos",
         "overview": {
             "Synonyms": "Pseudocirrhites pinos",
@@ -3851,6 +4077,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Angelfish",
         "name": "Pygoplites diacanthus",
         "overview": {
             "Synonyms": "Chaetodon diacanthus, Holacanthus diacanthus",
@@ -3868,6 +4095,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Damsel fish",
         "name": "Chrysiptera hemicyanea",
         "overview": {
             "Synonyms": "Abudefduf hemicyaneus, Chrysiptera hemicyaneus, Glyphidodontops hemicyaneus",
@@ -3885,6 +4113,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Miscellaneous Fish",
         "name": "Paracanthurus hepatus",
         "overview": {
             "Synonyms": "Acanthurus hepatus, Acanthurus theuthis, Paracanthurus theuthis, Teuthis hepatus",
@@ -3902,6 +4131,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Wrasses",
         "name": "Hologymnosus annulatus",
         "overview": {
             "Synonyms": "Labrus annulatus, L. semidiscus, Hemigymnosus semidiscus",
@@ -3919,6 +4149,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Miscellaneous Fish",
         "name": "Dunckerocampus dactyliophorus",
         "overview": {
             "Synonyms": "Acanthognathus caulleryi, Doryrhamphus dactyliophorus, Dunckerocampus dactyliophorus dactyliophorus, Syngnathus dactyliophorus",
@@ -3936,6 +4167,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Angelfish",
         "name": "Holacanthus tricolor",
         "overview": {
             "Synonyms": "Chaetodon tricolor, Pomacanthus tricolor",
@@ -3954,6 +4186,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Damsel fish",
         "name": "Chrysiptera springeri",
         "overview": {
             "Synonyms": "Glyphidodontops springeri",
@@ -3971,6 +4204,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Angelfish",
         "name": "Centropyge flavicauda",
         "overview": {
             "Synonyms": "Centropyge caudoxanthorus",
@@ -3988,6 +4222,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Dottybacks",
         "name": "Pictichromis paccagnellorum",
         "overview": {
             "Synonyms": "Pseudochromis paccagnellae, Pictichromis paccagnellae",
@@ -4005,6 +4240,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Dottybacks",
         "name": "Gramma loreto",
         "overview": {
             "Synonyms": "None",
@@ -4022,6 +4258,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Wrasses",
         "name": "Pseudojuloides severnsi",
         "overview": {
             "Synonyms": "None",
@@ -4039,6 +4276,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Blennies",
         "name": "Synchiropus sycorax",
         "overview": {
             "Synonyms": "None",
@@ -4056,6 +4294,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Angelfish",
         "name": "Centropyge ferrugata",
         "overview": {
             "Synonyms": "Centropyge ferrugatus",
@@ -4073,6 +4312,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Butterfly fish",
         "name": "Chaetodon ephippium",
         "overview": {
             "Synonyms": "Chaetodon garnoti, C. mulsanti, C. principalis",
@@ -4090,6 +4330,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Damsel fish",
         "name": "Amphiprion polymnus",
         "overview": {
             "Synonyms": "Amphiprion bifasciatus, A. bifasciatus annamensis, A. intermedius, A. laticlavius, A. trifasciatus, Anthias bifasciatus, Lutjanus jourdin, Paramphiprion hainanensis, Perca polymna, Sciaena unimaculata",
@@ -4107,6 +4348,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Blennies",
         "name": "Gobiodon citrinus",
         "overview": {
             "Synonyms": "Gobiodon hypselopterus, Gobius citrinus",
@@ -4124,6 +4366,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Miscellaneous Fish",
         "name": "Zebrasoma veliferum",
         "overview": {
             "Synonyms": "Acanthurus velifer, Zebrasoma velifer",
@@ -4141,6 +4384,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Miscellaneous Fish",
         "name": "Xanthichthys ringens",
         "overview": {
             "Synonyms": "Balistes cicatricosus, B. curassavicus, B. elongatus. B. heckelii, B. nitidus, B. notatus, B. ringens",
@@ -4158,6 +4402,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Hawk fish",
         "name": "Neocirrhites armatus",
         "overview": {
             "Synonyms": "None",
@@ -4175,6 +4420,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Blennies",
         "name": "Synchiropus ocellatus",
         "overview": {
             "Synonyms": "Callionymus ocellatus, Neosynchiropus ocellatus",
@@ -4192,6 +4438,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Miscellaneous Fish",
         "name": "Zebrasoma scopas",
         "overview": {
             "Synonyms": "Acanthurus altivelis, A. ruppelii, A. scopas, A. suillus, Zebrasoma supraalba",
@@ -4209,6 +4456,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Wrasses",
         "name": "Cirrhilabrus scottorum",
         "overview": {
             "Synonyms": "None",
@@ -4226,6 +4474,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Wrasses",
         "name": "Pseudocheilinus evanidus",
         "overview": {
             "Synonyms": "None",
@@ -4243,6 +4492,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Miscellaneous Fish",
         "name": "Ptereleotris zebra",
         "overview": {
             "Synonyms": "Pogonoculius zebra",
@@ -4260,6 +4510,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Blennies",
         "name": "Meiacanthus smithi",
         "overview": {
             "Synonyms": "None",
@@ -4278,6 +4529,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Wrasses",
         "name": "Halichoeres leucoxanthus",
         "overview": {
             "Synonyms": "None",
@@ -4295,6 +4547,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Angelfish",
         "name": "Pomacanthus sexstriatus",
         "overview": {
             "Synonyms": "Euxiphipops sexstriatus, Holacanthus sexstriatus",
@@ -4312,6 +4565,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Miscellaneous Fish",
         "name": "Corythoichthys intestinalis",
         "overview": {
             "Synonyms": "Corythoichthys intestinalis intestinalis, C. intestinalis waitei, C. waitei, Syngnatus intestinalis",
@@ -4329,6 +4583,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Miscellaneous Fish",
         "name": "Echidna nebulosa",
         "overview": {
             "Synonyms": "Gymnothorax boschii, Muraena boschii, M. nebulosa, Poecilophis nebulosa",
@@ -4346,6 +4601,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Miscellaneous Fish",
         "name": "Acanthurus sohal",
         "overview": {
             "Synonyms": "Acanthurus carinatus, Chaetodon sohal, Ctenodon ruppelii",
@@ -4363,6 +4619,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Wrasses",
         "name": "Bodianus rufus",
         "overview": {
             "Synonyms": "Bodianus blochii, B. bodianus, B. brachyrhynus, Harpe caeruleoaureus, Labrus rufus, L. semiruber, Lutjanus verres, Sparus fulcatus",
@@ -4380,6 +4637,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Butterfly fish",
         "name": "Chaetodon ocellicaudus",
         "overview": {
             "Synonyms": "None",
@@ -4397,6 +4655,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Lion fish",
         "name": "Pterois antennata",
         "overview": {
             "Synonyms": "Pseudomonopterus antennatus, Pteropterus antennata, Scorpaena antennata",
@@ -4414,6 +4673,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Miscellaneous Fish",
         "name": "Ostracion meleagris",
         "overview": {
             "Synonyms": "Ostracion camurum, Ostracion clippertonense, Ostracion lentiginosus, Ostracion meleagris meleagris, Ostracion punctatus, Ostracion sebae",
@@ -4432,6 +4692,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Miscellaneous Fish",
         "name": "Caracanthus maculatus",
         "overview": {
             "Synonyms": "Micropus maculatus",
@@ -4449,6 +4710,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Blennies",
         "name": "Synchiropus picturatus",
         "overview": {
             "Synonyms": "Callionymus picturatus, Pterosynchiropus picturatus",
@@ -4466,6 +4728,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Miscellaneous Fish",
         "name": "Ctenochaetus truncatus",
         "overview": {
             "Synonyms": "Acanthurus ctenodon, Ctenochaetus cyanoguttatus, Ctenochaetus strigosus",
@@ -4483,6 +4746,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Dottybacks",
         "name": "Pseudochromis springeri",
         "overview": {
             "Synonyms": "None",
@@ -4500,6 +4764,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Damsel fish",
         "name": "Chrysiptera starcki",
         "overview": {
             "Synonyms": "Abudefduf starcki, Glyphidodontops starcki",
@@ -4517,6 +4782,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Blennies",
         "name": "Cryptocentrus cinctus",
         "overview": {
             "Synonyms": "Smilogobius cinctus",
@@ -4534,6 +4800,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Butterfly fish",
         "name": "Chaetodon kleinii",
         "overview": {
             "Synonyms": "Anisochaetodon kleinii, Chaetodon bellulus, C. cingulatus, C. corallicola, C. flavescens, C.melammystax, C. melastomus, C. virescens",
@@ -4551,6 +4818,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Damsel fish",
         "name": "Chrysiptera talboti",
         "overview": {
             "Synonyms": "Glyphidodontops talboti",
@@ -4568,6 +4836,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Dottybacks",
         "name": "Pseudochromis flavivertex",
         "overview": {
             "Synonyms": "None",
@@ -4585,6 +4854,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Wrasses",
         "name": "Thalassoma lutescens",
         "overview": {
             "Synonyms": "Julis lutescens",
@@ -4602,6 +4872,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Blennies",
         "name": "Amblyeleotris guttata",
         "overview": {
             "Synonyms": "Pteroculiops guttatus",
@@ -4619,6 +4890,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Blennies",
         "name": "Amblyeleotris aurora",
         "overview": {
             "Synonyms": "Cryptocentrus aurora",
@@ -4636,6 +4908,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Angelfish",
         "name": "Genicanthus melanospilos",
         "overview": {
             "Synonyms": "Holacanthus melanospilos",
@@ -4653,6 +4926,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Butterfly fish",
         "name": "Chaetodon trichrous",
         "overview": {
             "Synonyms": "None",
@@ -4670,6 +4944,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Wrasses",
         "name": "Wetmorella tanakai",
         "overview": {
             "Synonyms": "None",
@@ -4687,6 +4962,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Blennies",
         "name": "Ctenogobiops tangaroai",
         "overview": {
             "Synonyms": "None",
@@ -4704,6 +4980,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Miscellaneous Fish",
         "name": "Chaetodermis penicilligerus",
         "overview": {
             "Synonyms": "Balistes penicilligerus, Chaetodermis maccullochi",
@@ -4721,6 +4998,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Butterfly fish",
         "name": "Chaetodon auriga",
         "overview": {
             "Synonyms": "Anisochaetodon auriga, Chaetodon auriga setifer, C. sebanus, C. setifer, Linophora auriga, Pomacanthus filamentosus, P. setifer, Rabdophorus linophora auriga, Sarothrodus auriga, Tetragonoptrus auriga, T. setifer",
@@ -4738,6 +5016,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Damsel fish",
         "name": "Dascyllus aruanus",
         "overview": {
             "Synonyms": "Abudefduf caroli, Chaetodon aruanus, Dascyllus blochii, Pomacentrus devisi, Pomacentrus emamo, Tetradrachmum arcuatum, Tetradrachmum aruanum",
@@ -4755,6 +5034,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Butterfly fish",
         "name": "Chaetodon humeralis",
         "overview": {
             "Synonyms": "None",
@@ -4772,6 +5052,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Wrasses",
         "name": "Halichoeres timorensis",
         "overview": {
             "Synonyms": "Halichoeres kawarin, Julis kawarin, J. timorensis",
@@ -4789,6 +5070,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Miscellaneous Fish",
         "name": "Serranus tabacarius",
         "overview": {
             "Synonyms": "Centropristes tabacarius",
@@ -4806,6 +5088,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Damsel fish",
         "name": "Amphiprion frenatus",
         "overview": {
             "Synonyms": "Amphiprion polylepis, Prochilus polylepis",
@@ -4823,6 +5106,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Miscellaneous Fish",
         "name": "Ptereleotris evides",
         "overview": {
             "Synonyms": "Encaeura evides, Ptereleotris dispersus, P. microlepis sakurai, P. tricolor, Vireosa sakurai",
@@ -4840,6 +5124,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Damsel fish",
         "name": "Chrysiptera rollandi",
         "overview": {
             "Synonyms": "Chromis rollandi, Glyphidodontops rollandi",
@@ -4857,6 +5142,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Wrasses",
         "name": "Anampses twistii",
         "overview": {
             "Synonyms": "None",
@@ -4874,6 +5160,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Miscellaneous Fish",
         "name": "Diploprion bifasciatum",
         "overview": {
             "Synonyms": "None",
@@ -4891,6 +5178,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Wrasses",
         "name": "Bodianus bimaculatus",
         "overview": {
             "Synonyms": "None",
@@ -4908,6 +5196,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Blennies",
         "name": "Valenciennea helsdingenii",
         "overview": {
             "Synonyms": "Calleleotris helsdingenii, Eleotriodes helsdingenii, Valenciennesia helsdingenii",
@@ -4925,6 +5214,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Miscellaneous Fish",
         "name": "Canthigaster valentini",
         "overview": {
             "Synonyms": "Tetraodon gronovii, Tetraodon valentini, Tetrodon taeniatus",
@@ -4942,6 +5232,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Miscellaneous Fish",
         "name": "Acanthurus tennentii",
         "overview": {
             "Synonyms": "Acanthurus bicommatus, Acanthurus plagiatus",
@@ -4959,6 +5250,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Lion fish",
         "name": "Pterois volitans",
         "overview": {
             "Synonyms": "Gasterosteus volitans",
@@ -4976,6 +5268,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Miscellaneous Fish",
         "name": "Antennarius maculatus",
         "overview": {
             "Synonyms": "Antennarius guentheri, A. oligospilos, A. phymatodes, Chironectes maculatus, Phymatophryne maculata",
@@ -4993,6 +5286,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Angelfish",
         "name": "Genicanthus watanabei",
         "overview": {
             "Synonyms": "Holacanthus watanabei",
@@ -5010,6 +5304,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Blennies",
         "name": "Amblygobius phalaena",
         "overview": {
             "Synonyms": "Gobius annulatus, G. phalaena",
@@ -5027,6 +5322,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Wrasses",
         "name": "Cirrhilabrus filamentosus",
         "overview": {
             "Synonyms": "Cirrhilabrichthys filamentosus",
@@ -5044,6 +5340,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Blennies",
         "name": "Priolepis nocturna",
         "overview": {
             "Synonyms": "Ctenogobius nocturnus",
@@ -5061,6 +5358,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Miscellaneous Fish",
         "name": "Acanthurus nigricans",
         "overview": {
             "Synonyms": "Acanthurus aliala, A. glaucopareius, Chaetodon nigricans",
@@ -5078,6 +5376,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Miscellaneous Fish",
         "name": "Arothron hispidus",
         "overview": {
             "Synonyms": "Tetraodon hispidus",
@@ -5095,6 +5394,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Miscellaneous Fish",
         "name": "Acanthurus guttatus",
         "overview": {
             "Synonyms": "Harpurus guttatus, Hepatus guttatus, Rhombotides guttatus, Teuthis guttatus, Zebrasoma guttatus",
@@ -5112,6 +5412,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Miscellaneous Fish",
         "name": "Pseudanthias squamipinnis",
         "overview": {
             "Synonyms": "Anthias squamipinnis, Franzia squamipinnis, Serranus squamipinnis",
@@ -5129,6 +5430,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Miscellaneous Fish",
         "name": "Ostracion cubicus",
         "overview": {
             "Synonyms": "Ostracion argus, O. tuberculatus",
@@ -5147,6 +5449,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Blennies",
         "name": "Gobiodon okinawae",
         "overview": {
             "Synonyms": "None",
@@ -5164,6 +5467,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Miscellaneous Fish",
         "name": "Parupeneus cyclostomus",
         "overview": {
             "Synonyms": "Mullus chryserydros, Mullus cyclostomus, Mullus microps, Mullus radiatus, Parupeneus chryserydros, Parupeneus luteus, Parupeneus xanthospilurus, Pseudupeneus aurantiacus, Pseudupeneus cyclostomus, Upeneus chryserythrus, Upeneus immaculatus, Upeneus luteus, Upeneus oxycephalus, Upeneus saffordi",
@@ -5181,6 +5485,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Butterfly fish",
         "name": "Forcipiger flavissimus",
         "overview": {
             "Synonyms": "None",
@@ -5198,6 +5503,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Damsel fish",
         "name": "Chrysiptera parasema",
         "overview": {
             "Synonyms": "Abudefduf parasema",
@@ -5215,6 +5521,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Miscellaneous Fish",
         "name": "Zebrasoma xanthurum",
         "overview": {
             "Synonyms": "Acanthurus xanthurus, Zebrasoma xanthurus",
@@ -5232,6 +5539,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Miscellaneous Fish",
         "name": "Zebrasoma flavescens",
         "overview": {
             "Synonyms": "Acanthurus flavescens",
@@ -5249,6 +5557,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Butterfly fish",
         "name": "Chaetodon interruptus",
         "overview": {
             "Synonyms": "Chaetodon unimaculatus interruptus",
@@ -5266,6 +5575,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Miscellaneous Fish",
         "name": "Hoplolatilus luteus",
         "overview": {
             "Synonyms": "None",
@@ -5283,6 +5593,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Wrasses",
         "name": "Halichoeres chrysus",
         "overview": {
             "Synonyms": "None",
@@ -5300,6 +5611,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Miscellaneous Fish",
         "name": "Ctenochaetus strigosus",
         "overview": {
             "Synonyms": "Acanthurus strigosus",
@@ -5317,6 +5629,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Anthias",
         "name": "Pseudanthias evansi",
         "overview": {
             "Synonyms": "Anthias evansi, Mirolabrichthys evansi",
@@ -5334,6 +5647,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Miscellaneous Fish",
         "name": "Doryrhamphus pessuliferus",
         "overview": {
             "Synonyms": "Dunckerocampus pessuliferus",
@@ -5351,6 +5665,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Wrasses",
         "name": "Wetmorella nigropinnata",
         "overview": {
             "Synonyms": "Cheilinus nigropinnatus, Wetmorella ocellata, W. philippina, W. triocellata",
@@ -5368,6 +5683,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Angelfish",
         "name": "Centropyge joculator",
         "overview": {
             "Synonyms": "None",
@@ -5385,6 +5701,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Butterfly fish",
         "name": "Chaetodon xanthocephalus",
         "overview": {
             "Synonyms": "Chaetodon auromarginatus, C. dayi, C. nigripinnatus, C. nigripinnis, Chelmo pulcher, Tetragonoptrus pulcher",
@@ -5402,6 +5719,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Miscellaneous Fish",
         "name": "Opistognathus aurifrons",
         "overview": {
             "Synonyms": "Gnathypops aurifrons",
@@ -5420,6 +5738,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Wrasses",
         "name": "Diproctacanthus xanthurus",
         "overview": {
             "Synonyms": "Labroides xanthurus",
@@ -5437,6 +5756,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Miscellaneous Fish",
         "name": "Gymnomuraena zebra",
         "overview": {
             "Synonyms": "Echidna zebra, Gymnomuraena fasciata, Gymnothorax zebra, Muraena molendinaris, M. zebra, Poecilophis zebra",
@@ -5454,6 +5774,7 @@
         "breeding": "No breeding details found."
     },
     {
+        "category": "Butterfly fish",
         "name": "Hemitaurichthys zoster",
         "overview": {
             "Synonyms": "Chaetodon zoster, Tetragonoptrus zoster",
